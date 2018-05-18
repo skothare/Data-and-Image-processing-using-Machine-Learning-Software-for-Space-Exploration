@@ -50,7 +50,4 @@ features. Hence, such training sets may be created in the future to supplement m
 
 Project Enhancement Plans:
 
-	We think that the AI could be trained further by sourcing crater images from the internet which would very dramatically broaden our 
-  data set and possibly allow it to categorize more types of surface features. Software that read data from our images may also be able 
-  to pick up more data point on each feature other than just length and width of the feature and feed them into our machine learning
-  algorithm.
+We think that the AI could be trained further by sourcing crater images from the internet which would very dramatically broaden our data set and possibly allow it to categorize more types of surface features. Software that read data from our images may also be able to pick up more data point on each feature other than just length and width of the feature and feed them into our machine learning algorithm.
