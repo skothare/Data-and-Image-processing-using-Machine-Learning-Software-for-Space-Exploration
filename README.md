@@ -1,4 +1,4 @@
-# Data and Image Processing Using Machine Learning Software of Space Exploration
+## Data and Image Processing Using Machine Learning Software of Space Exploration
 Sam Hughes & Sumeet Kothare
 CISC 489
 
