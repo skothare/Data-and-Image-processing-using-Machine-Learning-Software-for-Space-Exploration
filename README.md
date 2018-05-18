@@ -1,8 +1,8 @@
-## Data and Image Processing Using Machine Learning Software of Space Exploration
+# Data and Image Processing Using Machine Learning Software of Space Exploration
 Sam Hughes & Sumeet Kothare
 CISC 489
 
-# Our final test accuracy for the trained model ranged between 36% to 47%. Access the Topographical Features Identification using
+### Our final test accuracy for the trained model ranged between 36% to 47%. Access the Topographical Features Identification using
 Machine Learning Image Classification.pynb file for the code and the results.
 
 Result Replication Procedure:
