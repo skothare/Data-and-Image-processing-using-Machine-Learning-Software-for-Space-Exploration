@@ -5,17 +5,13 @@ CISC 489
 ### Our final test accuracy for the trained model ranged between 36% to 47%. Access the Topographical Features Identification using Machine Learning Image Classification.pynb file for the code and the results.
 
 Result Replication Procedure:
-	
-	Our project was based on an example that used data from various species of Iris flowers to learn how to classify and differentiate 
-  the different species. We concluded that this idea was similar to the crater identification issue we were attempting to solve and 
-  could therefore use similar code. 
+Our project was based on an example that used data from various species of Iris flowers to learn how to classify an differentiate the different species. We concluded that this idea was similar to the crater identification issue we were attempting to solve and could therefore use similar code. 
 
 ●	Dataset
-○	To begin, we had to acquire a dataset which needed to include quantifiable features of the extra terrestrial landforms in a set of 
-images. We began by assembling this dataset by hand and measuring the height and width of the most profound feature in each image. We 
+○	To begin, we had to acquire a dataset which needed to include quantifiable features of the extra terrestrial landforms in a set of images. We began by assembling this dataset by hand and measuring the height and width of the most profound feature in each image. We 
 did this with the idea in mind that we would eventually be able to use a software to analyze images and produce these numbers for us, 
 but for testing purposes, measuring by hand was deemed to be suitable for now.
-○	The data was compiled in a CSV file to be compatible with our example code. The header of the file must include information about 
+○The data was compiled in a CSV file to be compatible with our example code. The header of the file must include information about 
 the dataset. First, the number of entries, in our case, twenty-one. Second the number of data points on each entry, for us this was 
 two. And last, the classes each entry is identified to be. For our data, we were aiming to identify images as having a crater or not 
 so we had 0 - crater and 1 - non-crater. Each entry the had its own row with the columns being, height, width and classification.
